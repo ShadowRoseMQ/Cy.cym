@@ -1,0 +1,12 @@
+#include <ffrydiau_io>
+
+cyfanrif ffenestr() {
+    cyfanrifau x = 10;
+    cyfanrif ŷ = 20;
+
+    os (x < ŷ) {
+        argraffiadau << "Llwyddiant! x ydy bach iawn." << std::endl;
+    }
+
+    dychwelwch 0;
+}
